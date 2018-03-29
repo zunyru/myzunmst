@@ -1,0 +1,8 @@
+{
+  "name": "myzunsmt",
+  "app_id": "c09465e7",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
